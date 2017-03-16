@@ -1,0 +1,6 @@
+c:\users\f6run\documents\visual studio 2015\Projects\Zip\Zip\bin\Debug\Zip.exe.config
+c:\users\f6run\documents\visual studio 2015\Projects\Zip\Zip\bin\Debug\Zip.exe
+c:\users\f6run\documents\visual studio 2015\Projects\Zip\Zip\bin\Debug\Zip.pdb
+c:\users\f6run\documents\visual studio 2015\Projects\Zip\Zip\obj\Debug\Zip.exe
+c:\users\f6run\documents\visual studio 2015\Projects\Zip\Zip\obj\Debug\Zip.pdb
+C:\Users\f6run\documents\visual studio 2015\Projects\Zip\Zip\obj\Debug\Zip.csprojResolveAssemblyReference.cache
